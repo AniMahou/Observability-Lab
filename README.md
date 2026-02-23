@@ -1,14 +1,84 @@
-🚀 IUT Cafeteria Observability LabMastering the "Ramadan Rush" through Distributed MonitoringThis project serves as the foundational architecture for a high-availability, microservice-based cafeteria ordering system. It is specifically designed to handle massive traffic spikes (like the Iftar rush) using modern observability tools to track system health, latency, and performance in real-time.🛠 The Tech StackComponentTechnologyRoleMicroservicesNode.js / ExpressLightweight, non-blocking I/O for high concurrency.Log ManagementGrafana LokiHigh-performance log aggregation and querying.Metrics EnginePrometheusMonitoring time-series data (Request counts, Latency).Data CollectorGrafana AlloyThe "Messenger" that scrapes metrics and pipes logs to Loki.VisualizationGrafana DashboardsThe unified "Command Center" for the system.ContainerizationDocker & ComposeEnsuring "it works on every machine" with one command.🏗 System ArchitectureThe project demonstrates a Decoupled Observability Pattern. Instead of services pushing data and slowing themselves down, they write to local files/endpoints, and Alloy handles the heavy lifting of transport.Application Layer: Node.js services generate JSON logs and expose Prometheus metrics.Collection Layer: Alloy scrapes the /metrics endpoints and tails the .log files.Storage Layer: Loki (Logs) and Prometheus (Metrics) store the data.Visualization Layer: Grafana queries both to provide a "Single Pane of Glass."⚡ Features & "Chaos" SimulationJSON-Structured Logging: All logs are emitted in JSON format, allowing Loki to perform complex analytical queries (e.g., calculating average latency from log lines).Chaos Mode Toggle: Includes a built-in "Chaos" endpoint to simulate database choking and high latency (5s+), allowing you to observe how a system failure looks on the dashboard before it happens in production.Optimistic Monitoring: Track order success rates and failure counts using Prometheus counters.🚀 Quick Start1. PrerequisitesDocker & Docker DesktopNode.js (v18+)2. Launch the EcosystemBash# Clone the repo
-git clone https://github.com/your-username/observability-lab.git
-cd observability-lab
+# 🚀 IUT Cafeteria Observability Lab 
 
-# Start the Monitoring Stack (Grafana, Loki, Prometheus, Alloy)
+### *High-Availability Monitoring for the "Ramadan Rush"*
+
+This repository contains a microservice-based architecture designed to solve the **"Thundering Herd"** problem during peak hours (like Iftar). The project focuses on **Distributed Observability**, ensuring that developers can track system health, identify latency spikes, and manage "Chaos" in real-time.
+
+---
+
+## 🛠 Tech Stack
+
+| Component | Technology | Role |
+| :--- | :--- | :--- |
+| **Microservices** | Node.js / Express | Non-blocking service logic. |
+| **Log Management** | Grafana Loki | Log aggregation and indexing. |
+| **Metrics Engine** | Prometheus | Time-series data (Request rates, CPU). |
+| **Data Collector** | Grafana Alloy | The "Messenger" piping data to Grafana. |
+| **Visualization** | Grafana Dashboards | Centralized command center. |
+| **Containerization** | Docker & Compose | Infrastructure as code. |
+
+---
+
+## 🏗 System Architecture
+
+The system is designed to be **fault-tolerant**. Instead of a monolith that crashes under load, we use a decoupled monitoring layer where services remain fast while Alloy handles the observability overhead.
+
+
+
+1.  **Application Layer:** Services emit JSON logs and Prometheus metrics.
+2.  **Collection Layer:** Alloy tails the `.log` files and scrapes `/metrics`.
+3.  **Storage Layer:** Loki and Prometheus act as the "brain" for logs and metrics.
+4.  **Visualization Layer:** Grafana provides real-time insights and alerts.
+
+---
+
+## ⚡ Features & Chaos Engineering
+
+- **JSON-Structured Logging:** Uses `Winston` to ensure logs are machine-readable for complex analytics.
+- **Latency Tracking:** Real-time monitoring of request durations (critical for identifying "choke points").
+- **Chaos Simulation:** A built-in toggle to simulate database failures and 5-second delays, allowing for testing of "Graceful Degradation."
+- **Unified Dashboard:** One screen to view Logs, Metrics, and Service Health.
+
+---
+
+## 🚀 Quick Start
+
+### 1. Prerequisites
+- Docker & Docker Desktop
+- Node.js (v18+)
+
+### 2. Launch the Infrastructure
+
+#Start the Monitoring Stack (Grafana, Loki, Prometheus, Alloy)
 docker-compose up -d
-
-# Start the Services
+### 3. Run the Services
+Bash
+# Start Order Service (Port 3001)
 cd order-service && npm install && node index.js
+
+# Start Inventory Service (Port 4000)
 cd ../inventory-service && npm install && node index.js
-3. Access the DashboardsGrafana: http://localhost:3000 (Login: admin / admin)Order Service: http://localhost:3001/place-orderChaos Toggle: http://localhost:4000/toggle-chaos
-📊 Dashboard GuideHow to see the "Ramadan Rush"Go to Explore in Grafana.Select Loki to see real-time logs. Try this query to see latency:Code snippetavg_over_time({service="order-service"} | json | unwrap durationMs [1m])
-Select Prometheus to see order volume:Code snippettotal_orders_placed_total
-🛡 Fault Tolerance StrategyThis lab proves that even if the Inventory Service slows down (Chaos Mode), our Order Gateway can:Detect the spike via Prometheus.Log the specific error in Loki.Alert the Admin via Grafana before the "Spaghetti Monolith" crashes.
+### 4. Key Endpoints
+Grafana: http://localhost:3000 (User: admin | Pass: admin)
+
+Place Order: http://localhost:3001/place-order
+
+Toggle Chaos: http://localhost:4000/toggle-chaos
+
+### 📊 Monitoring Workflow
+Step 1: Generate Traffic
+Spam the place-order endpoint. In the browser, you will see "Order Created."
+
+Step 2: Trigger Chaos
+Hit the /toggle-chaos endpoint. You will notice the place-order requests now take 5 seconds.
+
+Step 3: Observe in Grafana
+Go to Explore and select Loki. Use this query to see the latency spike:
+
+Code snippet
+avg_over_time({service="order-service"} | json | unwrap durationMs [1m])
+🛡 Fault Tolerance Strategy
+This project proves that even if the Inventory Service slows down, the Order Gateway detects the spike via Prometheus and logs the specific error in Loki, preventing the entire "Spaghetti Monolith" from crashing.
+
+Developed for the IUT Hackathon Series.
+
