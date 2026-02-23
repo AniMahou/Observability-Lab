@@ -1,0 +1,63 @@
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T18:52:55.547Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T18:52:56.974Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T18:53:02.735Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:17:51.555Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:17:57.491Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T19:28:56.981Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T19:29:32.998Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T19:45:26.319Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:29.202Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:29.456Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:29.737Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:30.001Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:30.255Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:30.382Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:45:30.658Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T19:46:12.412Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:46:19.299Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:46:19.952Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:46:20.631Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:46:21.364Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:46:22.097Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T19:52:02.333Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:52:04.477Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:52:04.621Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:52:04.878Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:52:05.161Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T19:54:01.049Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:54:08.106Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:54:08.804Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T19:57:03.485Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:57:05.611Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:57:05.892Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:57:06.158Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:58:15.632Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:58:15.908Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T19:58:20.450Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T19:58:27.679Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T19:59:57.984Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:00.194Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:00.459Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T20:00:02.294Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T20:00:07.093Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:09.433Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:11.425Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:11.605Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:11.750Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:00:11.905Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:41:37.333Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:41:38.078Z"}
+{"level":"warn","message":"Chaos Mode is now ON - Expect Latency!","service":"inventory-service","timestamp":"2026-02-22T20:41:51.774Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:22.394Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:23.093Z"}
+{"level":"warn","message":"Chaos Mode is now OFF","service":"inventory-service","timestamp":"2026-02-22T20:42:40.120Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:42.157Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:42.296Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:42.448Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:42.578Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:42.713Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:42.864Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:43.029Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:43.315Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:43.461Z"}
+{"item":"Gaming Console","level":"info","message":"Stock check completed","service":"inventory-service","status":"available","timestamp":"2026-02-22T20:42:43.596Z"}

@@ -1,0 +1,94 @@
+{"level":"info","message":"Order placed successfully","orderId":816,"service":"order-service","timestamp":"2026-02-22T19:17:51.560Z"}
+{"durationMs":5037,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:17:51.567Z"}
+{"level":"info","message":"Order placed successfully","orderId":116,"service":"order-service","timestamp":"2026-02-22T19:17:57.494Z"}
+{"durationMs":5008,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:17:57.496Z"}
+{"level":"info","message":"Order placed successfully","orderId":178,"service":"order-service","timestamp":"2026-02-22T19:45:29.207Z"}
+{"durationMs":111,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:29.208Z"}
+{"level":"info","message":"Order placed successfully","orderId":869,"service":"order-service","timestamp":"2026-02-22T19:45:29.458Z"}
+{"durationMs":106,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:29.459Z"}
+{"level":"info","message":"Order placed successfully","orderId":703,"service":"order-service","timestamp":"2026-02-22T19:45:29.740Z"}
+{"durationMs":107,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:29.741Z"}
+{"level":"info","message":"Order placed successfully","orderId":274,"service":"order-service","timestamp":"2026-02-22T19:45:30.003Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:30.004Z"}
+{"level":"info","message":"Order placed successfully","orderId":207,"service":"order-service","timestamp":"2026-02-22T19:45:30.257Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:30.257Z"}
+{"level":"info","message":"Order placed successfully","orderId":143,"service":"order-service","timestamp":"2026-02-22T19:45:30.384Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:30.385Z"}
+{"level":"info","message":"Order placed successfully","orderId":386,"service":"order-service","timestamp":"2026-02-22T19:45:30.660Z"}
+{"durationMs":105,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:45:30.661Z"}
+{"level":"info","message":"Order placed successfully","orderId":476,"service":"order-service","timestamp":"2026-02-22T19:46:19.301Z"}
+{"durationMs":5008,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:46:19.302Z"}
+{"level":"info","message":"Order placed successfully","orderId":226,"service":"order-service","timestamp":"2026-02-22T19:46:19.954Z"}
+{"durationMs":5008,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:46:19.954Z"}
+{"level":"info","message":"Order placed successfully","orderId":747,"service":"order-service","timestamp":"2026-02-22T19:46:20.632Z"}
+{"durationMs":5005,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:46:20.633Z"}
+{"level":"info","message":"Order placed successfully","orderId":586,"service":"order-service","timestamp":"2026-02-22T19:46:21.366Z"}
+{"durationMs":5006,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:46:21.367Z"}
+{"level":"info","message":"Order placed successfully","orderId":310,"service":"order-service","timestamp":"2026-02-22T19:46:22.100Z"}
+{"durationMs":5005,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:46:22.100Z"}
+{"level":"info","message":"Order placed successfully","orderId":545,"service":"order-service","timestamp":"2026-02-22T19:52:04.480Z"}
+{"durationMs":107,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:52:04.481Z"}
+{"level":"info","message":"Order placed successfully","orderId":250,"service":"order-service","timestamp":"2026-02-22T19:52:04.623Z"}
+{"durationMs":103,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:52:04.623Z"}
+{"level":"info","message":"Order placed successfully","orderId":929,"service":"order-service","timestamp":"2026-02-22T19:52:04.881Z"}
+{"durationMs":105,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:52:04.882Z"}
+{"level":"info","message":"Order placed successfully","orderId":101,"service":"order-service","timestamp":"2026-02-22T19:52:05.163Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:52:05.164Z"}
+{"level":"info","message":"Order placed successfully","orderId":979,"service":"order-service","timestamp":"2026-02-22T19:54:08.107Z"}
+{"durationMs":5006,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:54:08.108Z"}
+{"level":"info","message":"Order placed successfully","orderId":757,"service":"order-service","timestamp":"2026-02-22T19:54:08.806Z"}
+{"durationMs":5007,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:54:08.807Z"}
+{"level":"info","message":"Order placed successfully","orderId":25,"service":"order-service","timestamp":"2026-02-22T19:57:05.614Z"}
+{"durationMs":108,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:57:05.615Z"}
+{"level":"info","message":"Order placed successfully","orderId":689,"service":"order-service","timestamp":"2026-02-22T19:57:05.893Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:57:05.894Z"}
+{"level":"info","message":"Order placed successfully","orderId":61,"service":"order-service","timestamp":"2026-02-22T19:57:06.160Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:57:06.161Z"}
+{"level":"info","message":"Order placed successfully","orderId":763,"service":"order-service","timestamp":"2026-02-22T19:58:15.635Z"}
+{"durationMs":108,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:58:15.637Z"}
+{"level":"info","message":"Order placed successfully","orderId":149,"service":"order-service","timestamp":"2026-02-22T19:58:15.910Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:58:15.911Z"}
+{"level":"info","message":"Order placed successfully","orderId":935,"service":"order-service","timestamp":"2026-02-22T19:58:27.680Z"}
+{"durationMs":5004,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T19:58:27.680Z"}
+{"level":"info","message":"Order placed successfully","orderId":179,"service":"order-service","timestamp":"2026-02-22T20:00:00.196Z"}
+{"durationMs":111,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:00.199Z"}
+{"level":"info","message":"Order placed successfully","orderId":98,"service":"order-service","timestamp":"2026-02-22T20:00:00.460Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:00.461Z"}
+{"level":"info","message":"Order placed successfully","orderId":831,"service":"order-service","timestamp":"2026-02-22T20:00:09.435Z"}
+{"durationMs":5005,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:09.436Z"}
+{"level":"info","message":"Order placed successfully","orderId":844,"service":"order-service","timestamp":"2026-02-22T20:00:11.427Z"}
+{"durationMs":103,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:11.427Z"}
+{"level":"info","message":"Order placed successfully","orderId":172,"service":"order-service","timestamp":"2026-02-22T20:00:11.607Z"}
+{"durationMs":105,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:11.608Z"}
+{"level":"info","message":"Order placed successfully","orderId":967,"service":"order-service","timestamp":"2026-02-22T20:00:11.752Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:11.753Z"}
+{"level":"info","message":"Order placed successfully","orderId":856,"service":"order-service","timestamp":"2026-02-22T20:00:11.906Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:00:11.907Z"}
+{"level":"info","message":"Order placed successfully","orderId":406,"service":"order-service","timestamp":"2026-02-22T20:41:37.340Z"}
+{"durationMs":140,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:41:37.351Z"}
+{"level":"info","message":"Order placed successfully","orderId":934,"service":"order-service","timestamp":"2026-02-22T20:41:38.081Z"}
+{"durationMs":107,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:41:38.082Z"}
+{"level":"info","message":"Order placed successfully","orderId":741,"service":"order-service","timestamp":"2026-02-22T20:42:22.396Z"}
+{"durationMs":5007,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:22.397Z"}
+{"level":"info","message":"Order placed successfully","orderId":447,"service":"order-service","timestamp":"2026-02-22T20:42:23.096Z"}
+{"durationMs":5007,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:23.096Z"}
+{"level":"info","message":"Order placed successfully","orderId":846,"service":"order-service","timestamp":"2026-02-22T20:42:42.159Z"}
+{"durationMs":106,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:42.160Z"}
+{"level":"info","message":"Order placed successfully","orderId":539,"service":"order-service","timestamp":"2026-02-22T20:42:42.297Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:42.298Z"}
+{"level":"info","message":"Order placed successfully","orderId":922,"service":"order-service","timestamp":"2026-02-22T20:42:42.450Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:42.450Z"}
+{"level":"info","message":"Order placed successfully","orderId":167,"service":"order-service","timestamp":"2026-02-22T20:42:42.580Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:42.581Z"}
+{"level":"info","message":"Order placed successfully","orderId":503,"service":"order-service","timestamp":"2026-02-22T20:42:42.714Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:42.715Z"}
+{"level":"info","message":"Order placed successfully","orderId":843,"service":"order-service","timestamp":"2026-02-22T20:42:42.866Z"}
+{"durationMs":105,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:42.867Z"}
+{"level":"info","message":"Order placed successfully","orderId":274,"service":"order-service","timestamp":"2026-02-22T20:42:43.030Z"}
+{"durationMs":103,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:43.031Z"}
+{"level":"info","message":"Order placed successfully","orderId":991,"service":"order-service","timestamp":"2026-02-22T20:42:43.316Z"}
+{"durationMs":103,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:43.317Z"}
+{"level":"info","message":"Order placed successfully","orderId":399,"service":"order-service","timestamp":"2026-02-22T20:42:43.462Z"}
+{"durationMs":103,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:43.463Z"}
+{"level":"info","message":"Order placed successfully","orderId":129,"service":"order-service","timestamp":"2026-02-22T20:42:43.597Z"}
+{"durationMs":104,"level":"info","message":"Request processed","service":"order-service","timestamp":"2026-02-22T20:42:43.598Z"}
